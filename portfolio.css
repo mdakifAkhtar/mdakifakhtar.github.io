@@ -196,8 +196,12 @@ nav ul li a:hover{
     margin:auto;
 }
 
-h2{
-    text-align: center;
+.contact{
+    padding:60px 10%;
+    display:flex;
+    flex-direction:column;
+    align-items:center;   /* 🔥 THIS FIXES CENTER */
+    text-align:center;    /* 🔥 centers text */
 }
 
 .contact input, .contact textarea{

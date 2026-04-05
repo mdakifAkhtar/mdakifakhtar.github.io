@@ -187,7 +187,27 @@ nav ul li a:hover{
     width:0;
     animation:load 2s forwards;
 }
+/* Contact by Email */
+.contact form{
+    display:flex;
+    flex-direction:column;
+    gap:15px;
+    max-width:400px;
+    margin:auto;
+}
 
+.contact input, .contact textarea{
+    padding:10px;
+    border:none;
+    border-radius:5px;
+}
+
+.contact button{
+    padding:10px;
+    background:cyan;
+    border:none;
+    cursor:pointer;
+}
 /* FOOTER */
 footer{
     text-align:center;

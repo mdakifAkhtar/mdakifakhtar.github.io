@@ -88,11 +88,14 @@
   
 <section class="contact">
     <h2>Contact Me</h2>
-    <p>If you want to work with me, feel free to reach out!</p>
 
-    <a href="mailto:mohmmadakifakhtar@gmail.com" class="email-btn">
-        📧 Send Email
-    </a>
+    <form action="https://formspree.io/f/your-id" method="POST">
+        <input type="text" name="name" placeholder="Your Name" required>
+        <input type="email" name="email" placeholder="Your Email" required>
+        <textarea name="message" placeholder="Your Message"></textarea>
+
+        <button type="submit">Send Message</button>
+    </form>
 </section>
   
 <footer>

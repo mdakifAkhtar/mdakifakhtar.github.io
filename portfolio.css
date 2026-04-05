@@ -196,6 +196,10 @@ nav ul li a:hover{
     margin:auto;
 }
 
+h2{
+    text-align: center;
+}
+
 .contact input, .contact textarea{
     padding:10px;
     border:none;

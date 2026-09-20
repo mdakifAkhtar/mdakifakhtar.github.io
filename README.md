@@ -5,7 +5,7 @@ AI/ML Engineer with hands-on experience in Machine Learning, Deep Learning, Gene
 
 Technical Skills
 
-- Languages:** Python, C++, SQL
+- Languages: Python, C++, SQL
 - Machine Learning: Scikit-learn, Random Forest, Logistic Regression, SVM, Decision Tree, K-Means, Feature Engineering, Model Evaluation
 - Deep Learning:TensorFlow, Keras, PyTorch, CNN, YOLO11, Neural Networks, Transformers
 - Generative AI:LLMs, RAG, LangChain, Ollama, Hugging Face Transformers, Prompt Engineering, Embeddings, Sentence Transformers, Vector Databases, Semantic Search
